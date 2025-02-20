@@ -1,4 +1,4 @@
-# Bitcoin-Core_review-notes
+# Bitcoin-Core review notes
 
 Welcome to my personal repository for tracking and documenting my journey through Bitcoin Core pull request (PR) reviews. This space is intended as a learning tool where I record my observations, thoughts, and comments while diving into the PR review process. The goal is to deepen my understanding of Bitcoin Core development, improve my skills, and contribute meaningfully to the ecosystem over time.
 
